@@ -1,0 +1,17 @@
+{
+  "name": "npm-tutorial",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "Reinaldi Mukti",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
